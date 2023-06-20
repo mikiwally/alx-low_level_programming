@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print _putchar
+ * main - ptiny _putchar
  * is written by mbah
  * Return: 0
  */
